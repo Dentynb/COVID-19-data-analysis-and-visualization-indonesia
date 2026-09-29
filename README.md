@@ -111,6 +111,6 @@ The dashboard uses multiple visualization techniques to explore different aspect
 
 ```text
 📦 COVID-19-Data-Analysis-Visualization-Indonesia
-├── 📊 COVID-19-Indonesia.pbix
+├── 📊 covid_19_indonesia_time_series_all.csv
 ├── 🖼️ dashboard.png
 └── 📄 README.md
